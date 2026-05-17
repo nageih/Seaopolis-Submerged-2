@@ -1,8 +1,4 @@
 {
-  "framedblocks": {
-    "framed_item_frame": true,
-    "framed_block_generic": true
-  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -66,26 +62,8 @@
     "goggles.detailed": false,
     "placard": true
   },
-  "jade_access": {
-    "held_item": true,
-    "sign": true,
-    "block": true,
-    "entity": true,
-    "entity_variant": true
-  },
   "ftbquests": {
     "barrier": true
-  },
-  "pneumaticcraft": {
-    "pneumatic": true,
-    "tube_module": true,
-    "entity": true,
-    "redstone": true,
-    "camo": true,
-    "semiblock": true
-  },
-  "portals": {
-    "portal_name_provider": true
   },
   "nanomirai": {
     "synthesize_display": true
@@ -108,15 +86,6 @@
   "extendedae": {
     "jade_chamber": true,
     "jade_wireless": true
-  },
-  "iceandfire": {
-    "dragon_egg_entity": true,
-    "multipart": true,
-    "dragon": true,
-    "dragon_egg_block": true
-  },
-  "balm": {
-    "jade": true
   },
   "custommachinery": {
     "machine_component_provider": true
@@ -148,14 +117,8 @@
     "advanced_auto_table": true,
     "compressor": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
-  "jadeaddons.lootr": {
-    "info": true
+  "enderio": {
+    "soul_bound": true
   },
   "mekanism": {
     "chemical": true,
@@ -181,5 +144,45 @@
     "main": true,
     "display.content": true,
     "display.status": true
+  },
+  "framedblocks": {
+    "framed_item_frame": true,
+    "framed_block_generic": true
+  },
+  "jade_access": {
+    "held_item": true,
+    "sign": true,
+    "block": true,
+    "entity": true,
+    "entity_variant": true
+  },
+  "pneumaticcraft": {
+    "pneumatic": true,
+    "tube_module": true,
+    "entity": true,
+    "redstone": true,
+    "camo": true,
+    "semiblock": true
+  },
+  "portals": {
+    "portal_name_provider": true
+  },
+  "iceandfire": {
+    "dragon_egg_entity": true,
+    "multipart": true,
+    "dragon": true,
+    "dragon_egg_block": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
   }
 }

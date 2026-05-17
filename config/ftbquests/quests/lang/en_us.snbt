@@ -167,7 +167,11 @@
 		"&lGold Powder&r is used to create the dust pattern, any blocks can be used as a floor"
 	]
 	quest.0D7A91E84A6CE9CD.title: "Ritual of the Forest"
-	quest.0D82DB8BCC19F8AC.quest_desc: ["A &lSimple Tank&r used for fuel for the &lSimple Controller&r. &lMolten Coal&r is a great source of fuel"]
+	quest.0D82DB8BCC19F8AC.quest_desc: [
+		"A &lSimple Tank&r used for fuel for the &lSimple Controller&r. &lMolten Coal&r is a great source of fuel."
+		""
+		"Pressing &l\"U\"&r on the tank in &lJEI&r will show you all Fu&lels&r that can be used. Some resources require hotter fuels!"
+	]
 	quest.0DB0A6AA4BBC6530.quest_desc: ["Useful to have a lot of these to make a &lMultiblock Controller&r"]
 	quest.0E040596AE4DFA19.quest_desc: ["Crafted &lLarge Chaos Fragments&r. &lLarge Chaos Fragments&r can be replicated "]
 	quest.0E33C96ACDFB9A9A.quest_desc: ["Thats no &lBastion&r"]

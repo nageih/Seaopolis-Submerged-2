@@ -1,12 +1,16 @@
 [
   {"version":1},
+  {"ingredient":{"id":"energymeter:meter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"casting:solidifier"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pneumaticcraft:etching_tank"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pneumaticcraft:empty_pcb"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"atlantis:orichalcum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"atlantis:orichalcum_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"nanomirai:synthesize_nano","components":{"minecraft:rarity":"rare"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"nanomirai:synthesize_nano","components":{"minecraft:rarity":"epic"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"submerged:quartz_enriched_gold"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"enderrf:ender_battery"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"nanomirai:reinforced_obsidian"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"atlantis:orichalcum_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"atlantis:orichalcum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"atlantis:orichalcum_blend"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"mekanism:pellet_antimatter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"mifa:speed_addon_6","components":{"titanium:augments":{"Speed":7.0}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -95,9 +99,5 @@
   {"ingredient":{"id":"submerged:cuprum_ore_piece"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:emerald"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ceramicbucket:ceramic_bucket","components":{"bucketlib:fluid":{"id":"casting:molten_emerald","amount":1000}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:turtle_scute"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:turtle_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:nautilus_shell"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"reliquary:kraken_shell_fragment"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"pneumaticcraft:spawner_core_shell"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:turtle_scute"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

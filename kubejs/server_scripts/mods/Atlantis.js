@@ -10,6 +10,10 @@ ServerEvents.recipes(event => {
     event.remove({id: 'atlantis:orichalcum_ignot_from_blasting'})
     event.remove({id: 'atlantis:orichalcum_ingot_from_blasting'})
     
+
+    //Orichalcum Ingot
+    event.shapeless('4x atlantis:orichalcum_ingot', ['atlantis:orichalcum_block']).id('submerged:orichalcum_ingot_from_block')
+
     //Aquamarine Ore Piece
     event.shaped('atlantis:aquamarine_ore', ['AA', 'AA'], {
         A: 'submerged:aquamarine_ore_piece'

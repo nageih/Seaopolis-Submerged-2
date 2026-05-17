@@ -10,3 +10,7 @@
 	"Enable Block Breaker fix" = false
 	#Prevent vanilla buckets obtaining a purity tag when collected in world with Thirst Was Taken Mod, requires Thirst Was Taken, default = false
 	"Enable bucket fix" = false
+	#Changes height level check for Derrick from Immersive Petroleum to prevent water from levels below 64
+	"Enable Immersive Petroleum fix" = false
+	#Fixed Distillation Tower recipe output disappearing after some time
+	"Enable Immersive Petroleum Distillation Tower fix" = false
