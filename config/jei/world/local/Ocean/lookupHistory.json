@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"casting:block_mold"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"casting:nugget_mold"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"energymeter:meter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"casting:solidifier"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"pneumaticcraft:etching_tank"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -97,7 +99,5 @@
   {"ingredient":{"id":"atlantis:ancient_cuprum_ore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"atlantis:ancient_cuprum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"submerged:cuprum_ore_piece"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:emerald"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"ceramicbucket:ceramic_bucket","components":{"bucketlib:fluid":{"id":"casting:molten_emerald","amount":1000}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:turtle_scute"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:emerald"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]
