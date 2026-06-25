@@ -2,4 +2,4 @@
 
 ## Changed
 - Updated Mods
-- Updated Neoforge to 26.1.2.234
+- Updated Neoforge to 21.1.234
