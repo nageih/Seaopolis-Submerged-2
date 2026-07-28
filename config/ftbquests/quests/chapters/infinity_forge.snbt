@@ -10,6 +10,7 @@
 		id: "custommachinery:custom_machine_item"
 	}
 	id: "43463B599794F7F2"
+	images: [ ]
 	order_index: 3
 	quest_links: [ ]
 	quests: [
@@ -515,6 +516,7 @@
 					id: "submerged:unactive_atlantis_portal_frame"
 				}
 				id: "4AF759589182B601"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "submerged:unactive_atlantis_portal_frame"
@@ -539,6 +541,7 @@
 					id: "submerged:active_atlantis_portal_frame"
 				}
 				id: "7DB7832FCC8056C9"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "submerged:active_atlantis_portal_frame"

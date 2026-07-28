@@ -7,6 +7,7 @@
 		id: "starforge:star_forge"
 	}
 	id: "689A7DABCF9A14E0"
+	images: [ ]
 	order_index: 2
 	quest_links: [ ]
 	quests: [

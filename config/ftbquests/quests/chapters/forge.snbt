@@ -7,6 +7,7 @@
 		id: "minecraft:dragon_egg"
 	}
 	id: "530CA56928BAC006"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -104,6 +105,7 @@
 					id: "minecraft:end_portal_frame"
 				}
 				id: "02C4BB0CB56F4494"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "minecraft:end_portal_frame"

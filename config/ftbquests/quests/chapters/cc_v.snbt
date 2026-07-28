@@ -7,6 +7,7 @@
 		id: "simplehats:presentsstack"
 	}
 	id: "67760D9BDF2AD905"
+	images: [ ]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
@@ -506,7 +507,7 @@
 					id: "50547DEC984C243F"
 					item: {
 						count: 1
-						id: "hybrid-aquatic:hammerhead_shark_plushie"
+						id: "hybrid_aquatic:hammerhead_shark_plushie"
 					}
 					type: "item"
 				}

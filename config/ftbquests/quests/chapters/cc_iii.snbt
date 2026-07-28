@@ -7,6 +7,7 @@
 		id: "simplehats:presentsstack"
 	}
 	id: "1F7AEF9A41AE6F54"
+	images: [ ]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
@@ -238,7 +239,7 @@
 					id: "7F40263D392EA3CB"
 					item: {
 						count: 1
-						id: "hybrid-aquatic:frilled_shark_plushie"
+						id: "hybrid_aquatic:frilled_shark_plushie"
 					}
 					type: "item"
 				}

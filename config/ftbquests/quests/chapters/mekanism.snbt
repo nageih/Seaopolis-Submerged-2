@@ -7,6 +7,7 @@
 		id: "mekanism:metallurgic_infuser"
 	}
 	id: "323791C40AB86271"
+	images: [ ]
 	order_index: 2
 	quest_links: [ ]
 	quests: [

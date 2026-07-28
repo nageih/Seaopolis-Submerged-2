@@ -11,6 +11,7 @@ atlantis:configured_atlantean_temple
 atlantis:configured_atlantean_tower
 atlantis:configured_oyster_structure
 betterstrongholds:stronghold
+hybrid_aquatic:whale_fall
 iceandfire:cyclops_cave
 iceandfire:fire_dragon_cave
 iceandfire:fire_dragon_roost

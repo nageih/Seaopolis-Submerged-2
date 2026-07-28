@@ -7,6 +7,7 @@
 		id: "simplehats:presentsstack"
 	}
 	id: "3DE775794F0DE900"
+	images: [ ]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
@@ -136,7 +137,7 @@
 					id: "6AD84C6900EA1079"
 					item: {
 						count: 1
-						id: "hybrid-aquatic:bull_shark_plushie"
+						id: "hybrid_aquatic:bull_shark_plushie"
 					}
 					type: "item"
 				}

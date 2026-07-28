@@ -7,6 +7,7 @@
 		id: "extendedcrafting:nether_star_block"
 	}
 	id: "3220729F6DAE9D8C"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

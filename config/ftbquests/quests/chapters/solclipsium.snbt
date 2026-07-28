@@ -7,6 +7,7 @@
 		id: "submerged:solclipsium_ingot"
 	}
 	id: "5CDD1A10F73F113B"
+	images: [ ]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -605,6 +606,7 @@
 			}]
 			tasks: [{
 				id: "60ACD15EFE9B60FF"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "minecraft:sculk_shrieker"

@@ -8,6 +8,7 @@
 		id: "totemic:wind_chime"
 	}
 	id: "720357CCE1FC83FD"
+	images: [ ]
 	order_index: 3
 	quest_links: [ ]
 	quests: [
@@ -106,6 +107,7 @@
 					id: "totemic:totem_base"
 				}
 				id: "6E034D5522B0F963"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "totemic:totem_base"
@@ -311,6 +313,7 @@
 			tasks: [
 				{
 					id: "1B126FE7BD337B0E"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "minecraft:chicken"
@@ -318,6 +321,7 @@
 				}
 				{
 					id: "2E2C90A3A06B1233"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "minecraft:parrot"

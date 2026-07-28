@@ -16,8 +16,6 @@ METHOD_SHADER_DUMP = false
 	# Default: 2
 	# Range: > 0
 	Y = 7
-	#Enabled
-	SHOW = true
 
 ["Main Menu Button"]
 	#Enabled

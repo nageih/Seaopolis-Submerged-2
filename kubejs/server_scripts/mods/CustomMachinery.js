@@ -97,16 +97,21 @@ ServerEvents.recipes(event => {
 
         results.forEach(result => {
             cmRecipe.produceItem(result)
-            //cmRecipe.id(`submerged:mini_pressure_chamber/${results[0].split(':')[1]}`);
         })
 
         fluidOutputs.forEach(fluidOutput => {
             cmRecipe.produceFluid(fluidOutput)
-            //cmRecipe.id(`submerged:mini_pressure_chamber/${fluidOutput[0].split(':')[1]}`);
         })
 
+        let baseName = (results[0] || fluidOutputs[0] || inputs[0] || "recipe")
+        .replace(/^\d+x\s*/, "")    
+        .replace(/[:\[\]="]/g, "_") 
+        .replace(/__+/g, "_")
+
+        cmRecipe.id(`submerged:mini_pressure_chamber/${baseName}`)
 
         return cmRecipe
+
     }
 
     //Cured 

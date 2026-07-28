@@ -10,6 +10,7 @@
 		id: "resourcefish:resource_fish_spawn_egg"
 	}
 	id: "7243EC6077298F8D"
+	images: [ ]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
@@ -361,7 +362,7 @@
 				}
 				{
 					id: "518FA4DC11C0AB4A"
-					item: { count: 1, id: "hybrid-aquatic:turtle_chestplate" }
+					item: { count: 1, id: "hybrid_aquatic:turtle_chestplate" }
 					optional_task: true
 					type: "item"
 				}

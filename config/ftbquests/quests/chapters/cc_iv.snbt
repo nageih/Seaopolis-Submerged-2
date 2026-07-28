@@ -7,6 +7,7 @@
 		id: "simplehats:presentsstack"
 	}
 	id: "713B01C02D31073C"
+	images: [ ]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
@@ -413,7 +414,7 @@
 					id: "403C617515B47226"
 					item: {
 						count: 1
-						id: "hybrid-aquatic:great_white_shark_plushie"
+						id: "hybrid_aquatic:great_white_shark_plushie"
 					}
 					type: "item"
 				}

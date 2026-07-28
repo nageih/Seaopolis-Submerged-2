@@ -7,6 +7,7 @@
 		id: "simplehats:presentsstack"
 	}
 	id: "25F872F5F5361FC0"
+	images: [ ]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
@@ -253,7 +254,7 @@
 				id: "40028448FAAD73C0"
 				item: {
 					count: 1
-					id: "hybrid-aquatic:thresher_shark_plushie"
+					id: "hybrid_aquatic:thresher_shark_plushie"
 				}
 				type: "item"
 			}]
@@ -339,7 +340,7 @@
 				id: "7913CE6A158F177A"
 				item: {
 					count: 1
-					id: "hybrid-aquatic:tiger_shark_plushie"
+					id: "hybrid_aquatic:tiger_shark_plushie"
 				}
 				type: "item"
 			}]
@@ -365,7 +366,7 @@
 				id: "3CBFDF2B0603FA15"
 				item: {
 					count: 1
-					id: "hybrid-aquatic:whale_shark_plushie"
+					id: "hybrid_aquatic:whale_shark_plushie"
 				}
 				type: "item"
 			}]

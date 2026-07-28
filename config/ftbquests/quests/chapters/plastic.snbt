@@ -7,6 +7,7 @@
 		id: "pneumaticcraft:plastic"
 	}
 	id: "1AF122F4F516298A"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

@@ -8,6 +8,7 @@
 		id: "minecraft:stone"
 	}
 	id: "3E77A3BEE08A4625"
+	images: [ ]
 	order_index: 1
 	quest_links: [ ]
 	quests: [

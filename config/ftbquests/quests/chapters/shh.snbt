@@ -5,6 +5,7 @@
 	filename: "shh"
 	group: "78F23D9761C5A35B"
 	id: "569B9AD19E082D9A"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -514,6 +515,7 @@
 			}]
 			tasks: [{
 				id: "602E60EFF054F0D2"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "forcecraft:cold_chicken"
@@ -590,6 +592,7 @@
 			}]
 			tasks: [{
 				id: "3FBCF4AB45587373"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "forcecraft:cold_cow"
@@ -612,6 +615,7 @@
 			}]
 			tasks: [{
 				id: "0DBF0A287DD0DE53"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "forcecraft:cold_pig"
@@ -1008,7 +1012,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				entity: "hybrid-aquatic:karkinos"
+				entity: "hybrid_aquatic:karkinos"
 				id: "7DD1B2ECBB4DA732"
 				type: "kill"
 				value: 1L
@@ -1029,7 +1033,7 @@
 			}]
 			tasks: [{
 				id: "1C21159C46B0CA43"
-				item: { count: 1, id: "hybrid-aquatic:ominous_hook" }
+				item: { count: 1, id: "hybrid_aquatic:ominous_hook" }
 				type: "item"
 			}]
 			x: -10.0d

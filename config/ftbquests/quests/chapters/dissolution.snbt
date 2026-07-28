@@ -7,6 +7,7 @@
 		id: "industrialforegoing:dissolution_chamber"
 	}
 	id: "4DCA4E15279048E5"
+	images: [ ]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
@@ -598,6 +599,7 @@
 			}]
 			tasks: [{
 				id: "4C490346F37E093C"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "extendedae:entro_budding_fully"

@@ -7,6 +7,7 @@
 		id: "simplehats:presentsstack"
 	}
 	id: "006EF0F89F057098"
+	images: [ ]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
@@ -404,7 +405,7 @@
 					id: "6C259FE2008E97D2"
 					item: {
 						count: 1
-						id: "hybrid-aquatic:basking_shark_plushie"
+						id: "hybrid_aquatic:basking_shark_plushie"
 					}
 					type: "item"
 				}
