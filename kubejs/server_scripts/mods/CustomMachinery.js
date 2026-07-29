@@ -53,36 +53,36 @@ ServerEvents.recipes(event => {
         
 
     //Mini Pressure Chamber recipe generator
-    addPressureChamberRecipe(2, ["minecraft:iron_block"],["pneumaticcraft:compressed_iron_block"], [], [])
-    addPressureChamberRecipe(2, ["submerged:living_gravel", "2x minecraft:nether_wart"],["submerged:nether_gravel"], ["100x casting:molten_blaze"], [])
-    addPressureChamberRecipe(2.5, ["4x minecraft:packed_ice"],["minecraft:blue_ice"], [], [])
-    addPressureChamberRecipe(2, ["4x minecraft:ice"],["minecraft:packed_ice"], [], [])
-    addPressureChamberRecipe(1, ["submerged:totemic_infused_gravel", "minecraft:sand"],["submerged:assembled_gravel"], ["250x submerged:organic_water"], [])
-    addPressureChamberRecipe(3, ['enderio:skeletal_contractor', 'enderio:ender_resonator', 'enderio:guardian_diode', 'enderio:mind_killer', 'enderio:z_logic_controller'],["submerged:ai_controller"], ["1000x industrialforegoing:latex"], [])
-    addPressureChamberRecipe(1, ['#c:stones'],["pneumaticcraft:compressed_stone"], [], [])
-    addPressureChamberRecipe(1, ['2x minecraft:gunpowder', '2x minecraft:rotten_flesh', '2x minecraft:spider_eye'],[], ["pneumaticcraft:plastic"], ["pneumaticcraft:etching_acid"])
-    addPressureChamberRecipe(1.5, ['2x minecraft:redstone_torch', '3x #pneumaticcraft:wiring', 'pneumaticcraft:plastic'],['3x pneumaticcraft:empty_pcb'], [], [])
-    addPressureChamberRecipe(1.5, ['4x minecraft:snow_block'],['minecraft:ice'], [], [])
-    addPressureChamberRecipe(1, ['minecraft:gold_ingot', '2x minecraft:redstone'],['pneumaticcraft:turbine_blade'], [], [])
-    addPressureChamberRecipe(3, ['4x minecraft:gold_ingot', '4x minecraft:netherite_scrap'],['minecraft:netherite_ingot'], [], [])
-    addPressureChamberRecipe(1, ['4x #c:dyes/green'],['4x minecraft:slime_ball'], ["1000x minecraft:milk"], [])
-    addPressureChamberRecipe(1.5, ['minecraft:wheat'],['3x pneumaticcraft:wheat_flour'], [], [])
-    addPressureChamberRecipe(1.5, ['submerged:ancient_gravel'],['submerged:teary_gravel'], ["125x submerged:warden_tears"], [])
-    addPressureChamberRecipe(1, ['naturesaura:infused_iron', 'naturesaura:tainted_gold', '6x minecraft:redstone'],['2x submerged:infused_alloy'], [], [])
-    addPressureChamberRecipe(2, ['minecraft:quartz', 'ae2:certus_quartz_crystal', '3x minecraft:iron_ingot'],['4x refinedstorage:quartz_enriched_iron'], [], [])
-    addPressureChamberRecipe(2, ['submerged:living_gravel', 'minecraft:nether_wart'],['submerged:nether_gravel'], ["250x minecraft:lava"], [])
-    addPressureChamberRecipe(2, ['submerged:assembled_gravel', 'opolisutilities:ender_pearl_fragment'],['submerged:living_gravel'], ["125x mob_grinding_utils:fluid_xp"], [])
-    addPressureChamberRecipe(2, ['minecraft:iron_ingot'],['pneumaticcraft:ingot_iron_compressed'], [], [])
-    addPressureChamberRecipe(1, ['minecraft:blaze_rod'],['3x minecraft:blaze_powder'], [], [])
-    addPressureChamberRecipe(1, ['naturesaura:gold_leaf'],['3x naturesaura:gold_powder'], [], [])
-    addPressureChamberRecipe(2.5, ['pneumaticcraft:upgrade_matrix', 'minecraft:amethyst_shard'],['pneumaticcraft:solar_wafer'], [], [])
-    addPressureChamberRecipe(2, ['submerged:living_gravel', 'minecraft:nether_wart'],['submerged:nether_gravel'], ["25x industrialforegoing:pink_slime", '125x industrialforegoing:meat'], [])
-    addPressureChamberRecipe(3, ['2x pneumaticcraft:pressure_chamber_glass', '2x pneumaticcraft:pressure_chamber_interface', 'pneumaticcraft:pressure_chamber_valve', '21x pneumaticcraft:pressure_chamber_wall'],['custommachinery:custom_machine_item[custommachinery:machine="submerged:mini_pressure_chamber"]'], [], [])
-    addPressureChamberRecipe(1.5, ['4x pneumaticcraft:ingot_iron_compressed', 'casting:gear_mold'],['pneumaticcraft:compressed_iron_gear', 'casting:gear_mold'], [], [])
-    addPressureChamberRecipe(1.5, ['submerged:corrupted_prismarine_crystal'],['submerged:prismarine_ingot'], [], [])
-    addPressureChamberRecipe(4.0, ["atlantis:sunken_gravel", "2x iceandfire:dread_shard", "submerged:dreaded_draconic_compound"],['submerged:draconic_gravel', "submerged:dreaded_draconic_compound"], [], [])
+    addPressureChamberRecipe(2, ["minecraft:iron_block"], ["pneumaticcraft:compressed_iron_block"], [], [], "compressed_iron_block")
+    addPressureChamberRecipe(2, ["submerged:living_gravel", "2x minecraft:nether_wart"], ["submerged:nether_gravel"], ["100x casting:molten_blaze"], [], "nether_gravel_from_blaze")
+    addPressureChamberRecipe(2.5, ["4x minecraft:packed_ice"], ["minecraft:blue_ice"], [], [], "blue_ice")
+    addPressureChamberRecipe(2, ["4x minecraft:ice"], ["minecraft:packed_ice"], [], [], "packed_ice")
+    addPressureChamberRecipe(1, ["submerged:totemic_infused_gravel", "minecraft:sand"], ["submerged:assembled_gravel"], ["250x submerged:organic_water"], [], "assembled_gravel")
+    addPressureChamberRecipe(3, ['enderio:skeletal_contractor', 'enderio:ender_resonator', 'enderio:guardian_diode', 'enderio:mind_killer', 'enderio:z_logic_controller'], ["submerged:ai_controller"], ["1000x industrialforegoing:latex"], [], "ai_controller")
+    addPressureChamberRecipe(1, ['#c:stones'], ["pneumaticcraft:compressed_stone"], [], [], "compressed_stone")
+    addPressureChamberRecipe(1, ['2x minecraft:gunpowder', '2x minecraft:rotten_flesh', '2x minecraft:spider_eye'], [], ["pneumaticcraft:plastic"], ["pneumaticcraft:etching_acid"], "etching_acid")
+    addPressureChamberRecipe(1.5, ['2x minecraft:redstone_torch', '3x #pneumaticcraft:wiring', 'pneumaticcraft:plastic'], ['3x pneumaticcraft:empty_pcb'], [], [], "empty_pcb")
+    addPressureChamberRecipe(1.5, ['4x minecraft:snow_block'], ['minecraft:ice'], [], [], "ice_from_snow_block")
+    addPressureChamberRecipe(1, ['minecraft:gold_ingot', '2x minecraft:redstone'], ['pneumaticcraft:turbine_blade'], [], [], "turbine_blade")
+    addPressureChamberRecipe(3, ['4x minecraft:gold_ingot', '4x minecraft:netherite_scrap'], ['minecraft:netherite_ingot'], [], [], "netherite_ingot")
+    addPressureChamberRecipe(1, ['4x #c:dyes/green'], ['4x minecraft:slime_ball'], ["1000x minecraft:milk"], [], "slime_ball")
+    addPressureChamberRecipe(1.5, ['minecraft:wheat'], ['3x pneumaticcraft:wheat_flour'], [], [], "wheat_flour")
+    addPressureChamberRecipe(1.5, ['submerged:ancient_gravel'], ['submerged:teary_gravel'], ["125x submerged:warden_tears"], [], "teary_gravel")
+    addPressureChamberRecipe(1, ['naturesaura:infused_iron', 'naturesaura:tainted_gold', '6x minecraft:redstone'], ['2x submerged:infused_alloy'], [], [], "infused_alloy")
+    addPressureChamberRecipe(2, ['minecraft:quartz', 'ae2:certus_quartz_crystal', '3x minecraft:iron_ingot'], ['4x refinedstorage:quartz_enriched_iron'], [], [], "quartz_enriched_iron")
+    addPressureChamberRecipe(2, ['submerged:living_gravel', 'minecraft:nether_wart'], ['submerged:nether_gravel'], ["250x minecraft:lava"], [], "nether_gravel_from_lava")
+    addPressureChamberRecipe(2, ['submerged:assembled_gravel', 'opolisutilities:ender_pearl_fragment'], ['submerged:living_gravel'], ["125x mob_grinding_utils:fluid_xp"], [], "living_gravel")
+    addPressureChamberRecipe(2, ['minecraft:iron_ingot'], ['pneumaticcraft:ingot_iron_compressed'], [], [], "ingot_iron_compressed")
+    addPressureChamberRecipe(1, ['minecraft:blaze_rod'], ['3x minecraft:blaze_powder'], [], [], "blaze_powder")
+    addPressureChamberRecipe(1, ['naturesaura:gold_leaf'], ['3x naturesaura:gold_powder'], [], [], "gold_powder")
+    addPressureChamberRecipe(2.5, ['pneumaticcraft:upgrade_matrix', 'minecraft:amethyst_shard'], ['pneumaticcraft:solar_wafer'], [], [], "solar_wafer")
+    addPressureChamberRecipe(2, ['submerged:living_gravel', 'minecraft:nether_wart'], ['submerged:nether_gravel'], ["25x industrialforegoing:pink_slime", '125x industrialforegoing:meat'], [], "nether_gravel_from_meat")
+    addPressureChamberRecipe(3, ['2x pneumaticcraft:pressure_chamber_glass', '2x pneumaticcraft:pressure_chamber_interface', 'pneumaticcraft:pressure_chamber_valve', '21x pneumaticcraft:pressure_chamber_wall'], ['custommachinery:custom_machine_item[custommachinery:machine="submerged:mini_pressure_chamber"]'], [], [], "mini_pressure_chamber_item")
+    addPressureChamberRecipe(1.5, ['4x pneumaticcraft:ingot_iron_compressed', 'casting:gear_mold'], ['pneumaticcraft:compressed_iron_gear', 'casting:gear_mold'], [], [], "compressed_iron_gear")
+    addPressureChamberRecipe(1.5, ['submerged:corrupted_prismarine_crystal'], ['submerged:prismarine_ingot'], [], [], "prismarine_ingot")
+    addPressureChamberRecipe(4.0, ["atlantis:sunken_gravel", "2x iceandfire:dread_shard", "submerged:dreaded_draconic_compound"], ['submerged:draconic_gravel', "submerged:dreaded_draconic_compound"], [], [], "draconic_gravel")
 
-    function addPressureChamberRecipe(pressure, inputs, results, fluidInputs, fluidOutputs) {
+    function addPressureChamberRecipe(pressure, inputs, results, fluidInputs, fluidOutputs, id) {
         let cmRecipe = event.recipes.custommachinery
             .custom_machine("submerged:mini_pressure_chamber", 150)
             .requirePressure(pressure, 25, pressure * 75)
@@ -103,15 +103,9 @@ ServerEvents.recipes(event => {
             cmRecipe.produceFluid(fluidOutput)
         })
 
-        let baseName = (results[0] || fluidOutputs[0] || inputs[0] || "recipe")
-        .replace(/^\d+x\s*/, "")    
-        .replace(/[:\[\]="]/g, "_") 
-        .replace(/__+/g, "_")
-
-        cmRecipe.id(`submerged:mini_pressure_chamber/${baseName}`)
+        cmRecipe.id(`submerged:mini_pressure_chamber/${id}`)
 
         return cmRecipe
-
     }
 
     //Cured 

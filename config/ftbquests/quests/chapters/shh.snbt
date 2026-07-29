@@ -228,6 +228,14 @@
 			y: -7.5d
 		}
 		{
+			dep_control_pts: {
+				45265F122E36447A: [
+					-5.0d
+					-5.0d
+					-0.7142857142857082d
+					-4.107142857142861d
+				]
+			}
 			dependencies: ["45265F122E36447A"]
 			id: "24806A84BFB79D8C"
 			invisible: true
@@ -246,9 +254,17 @@
 				value: 72000
 			}]
 			x: -4.0d
-			y: -5.5d
+			y: -7.0d
 		}
 		{
+			dep_control_pts: {
+				24806A84BFB79D8C: [
+					-4.0d
+					-7.0d
+					-2.75d
+					-9.535714285714285d
+				]
+			}
 			dependencies: ["24806A84BFB79D8C"]
 			id: "7314F2E1C477A6B7"
 			invisible: true
@@ -267,10 +283,18 @@
 				type: "stat"
 				value: 144000
 			}]
-			x: -3.0d
-			y: -5.0d
+			x: -1.5d
+			y: -7.5d
 		}
 		{
+			dep_control_pts: {
+				7314F2E1C477A6B7: [
+					-1.5d
+					-7.5d
+					-2.1785714285714306d
+					-5.178571428571431d
+				]
+			}
 			dependencies: ["7314F2E1C477A6B7"]
 			id: "4657957EAC55425E"
 			invisible: true
@@ -289,10 +313,18 @@
 				type: "stat"
 				value: 288000
 			}]
-			x: -2.0d
-			y: -5.5d
+			x: 0.5d
+			y: -6.5d
 		}
 		{
+			dep_control_pts: {
+				4657957EAC55425E: [
+					0.5d
+					-6.5d
+					2.5714285714285765d
+					-4.535714285714285d
+				]
+			}
 			dependencies: ["4657957EAC55425E"]
 			id: "44FD2962645B1778"
 			invisible: true
@@ -311,10 +343,18 @@
 				type: "stat"
 				value: 576000
 			}]
-			x: -1.0d
-			y: -5.0d
+			x: -2.0d
+			y: -5.5d
 		}
 		{
+			dep_control_pts: {
+				44FD2962645B1778: [
+					-2.0d
+					-5.5d
+					-3.4642857142857153d
+					-2.464285714285708d
+				]
+			}
 			dependencies: ["44FD2962645B1778"]
 			id: "78D79E8403B5BAD4"
 			invisible: true
@@ -333,9 +373,17 @@
 				value: 1728000
 			}]
 			x: 0.0d
-			y: -5.5d
+			y: -4.0d
 		}
 		{
+			dep_control_pts: {
+				78D79E8403B5BAD4: [
+					0.0d
+					-4.0d
+					2.6785714285714306d
+					-2.607142857142854d
+				]
+			}
 			dependencies: ["78D79E8403B5BAD4"]
 			id: "39336A301C26E621"
 			invisible: true
@@ -354,10 +402,18 @@
 				type: "stat"
 				value: 3456000
 			}]
-			x: 1.0d
-			y: -5.0d
+			x: 2.0d
+			y: -5.5d
 		}
 		{
+			dep_control_pts: {
+				39336A301C26E621: [
+					2.0d
+					-5.5d
+					0.9642857142857082d
+					-7.142857142857139d
+				]
+			}
 			dependencies: ["39336A301C26E621"]
 			id: "0A79EA157A8F7A83"
 			invisible: true
@@ -376,10 +432,18 @@
 				type: "stat"
 				value: 6912000
 			}]
-			x: 2.0d
-			y: -5.5d
+			x: 4.0d
+			y: -7.0d
 		}
 		{
+			dep_control_pts: {
+				0A79EA157A8F7A83: [
+					4.0d
+					-7.0d
+					9.821428571428562d
+					-7.035714285714288d
+				]
+			}
 			dependencies: ["0A79EA157A8F7A83"]
 			id: "417794200178A9B4"
 			invisible: true
@@ -398,7 +462,7 @@
 				type: "stat"
 				value: 12096000
 			}]
-			x: 3.0d
+			x: 5.5d
 			y: -5.0d
 		}
 		{
