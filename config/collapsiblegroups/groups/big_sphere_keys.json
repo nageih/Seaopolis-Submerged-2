@@ -1,0 +1,12 @@
+{
+  "id": "big_sphere_keys",
+  "name": {
+    "translate": "collapsible_groups.group.big_sphere_keys",
+    "fallback": "Big Sphere Keys"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "submerged:keys/big_sphere"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "big_cube_keys",
+  "name": {
+    "translate": "collapsible_groups.group.big_cube_keys",
+    "fallback": "Big Cube Keys"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "submerged:keys/big_cube"
+  }
+}

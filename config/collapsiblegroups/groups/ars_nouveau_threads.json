@@ -1,0 +1,88 @@
+{
+  "id": "ars_nouveau_threads",
+  "name": {
+    "translate": "collapsible_groups.group.ars_nouveau_threads",
+    "fallback": "Ars Nouveau: Threads"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_depths"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_heights"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_whirlisprig"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_drygmy"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_high_step"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_spellpower"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_life_drain"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_starbuncle"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_chilling"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_undying"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_feather"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_warding"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_gliding"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_immolation"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_amethyst_golem"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_magic_capacity"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_kindling"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_wixie"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:thread_repairing"
+      }
+    ]
+  }
+}

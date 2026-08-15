@@ -1,0 +1,108 @@
+{
+  "id": "ars_nouveau_tablets",
+  "name": {
+    "translate": "collapsible_groups.group.ars_nouveau_tablets",
+    "fallback": "Ars Nouveau: Tablets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_burrowing"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_challenge"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_binding"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_awakening"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_disintegration"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_sunrise"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_cloudshaping"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_flight"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_conjure_island_plains"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_restoration"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_animal_summon"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_forestation"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_warping"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_moonfall"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_containment"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_scrying"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_gravity"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_flowering"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_sanctuary"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_fertility"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_wilden_summon"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_harvest"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_conjure_island_desert"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:ritual_overgrowth"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tunnel_keys",
+  "name": {
+    "translate": "collapsible_groups.group.tunnel_keys",
+    "fallback": "Tunnel Keys"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "submerged:keys/tunnel"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8x_compressed_crates",
+  "name": {
+    "translate": "collapsible_groups.group.8x_compressed_crates",
+    "fallback": "8x Compressed Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "compressedblocks:crate_x08"
+  }
+}

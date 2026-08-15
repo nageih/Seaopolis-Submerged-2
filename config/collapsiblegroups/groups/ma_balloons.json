@@ -1,0 +1,12 @@
+{
+  "id": "ma_balloons",
+  "name": {
+    "translate": "collapsible_groups.group.ma_balloons",
+    "fallback": "MA: Balloons"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "mekanismadditions:balloons"
+  }
+}

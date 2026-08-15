@@ -1,0 +1,12 @@
+{
+  "id": "artifacts",
+  "name": {
+    "translate": "collapsible_groups.group.artifacts",
+    "fallback": "Artifacts"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "namespace": "artifacts"
+  }
+}

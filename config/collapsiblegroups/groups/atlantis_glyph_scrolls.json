@@ -1,0 +1,160 @@
+{
+  "id": "atlantis_glyph_scrolls",
+  "name": {
+    "translate": "collapsible_groups.group.atlantis_glyph_scrolls",
+    "fallback": "Atlantis: Glyph Scrolls"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_9"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_a"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_b"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_c"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_d"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_e"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_f"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_g"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_h"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_i"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_j"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_k"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_l"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_m"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_n"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_o"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_p"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_q"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_r"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_s"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_8"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_7"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_6"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_5"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_4"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_3"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_2"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_1"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_0"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_z"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_y"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_x"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_w"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_v"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_u"
+      },
+      {
+        "type": "item",
+        "id": "atlantis:linguistic_glyph_scroll_t"
+      }
+    ]
+  }
+}

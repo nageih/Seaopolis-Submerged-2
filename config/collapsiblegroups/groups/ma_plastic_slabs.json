@@ -1,0 +1,12 @@
+{
+  "id": "ma_plastic_slabs",
+  "name": {
+    "translate": "collapsible_groups.group.ma_plastic_slabs",
+    "fallback": "MA: Plastic Slabs"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "mekanismadditions:plastic_slabs"
+  }
+}

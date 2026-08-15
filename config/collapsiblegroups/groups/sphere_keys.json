@@ -1,0 +1,12 @@
+{
+  "id": "sphere_keys",
+  "name": {
+    "translate": "collapsible_groups.group.sphere_keys",
+    "fallback": "Sphere Keys"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "submerged:keys/sphere_base"
+  }
+}

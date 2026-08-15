@@ -1,12 +1,14 @@
+# Ignore everything by default
+
 *
 
-!.gitignore
+# Directories that should always be included
 
 !kubejs/
 !kubejs/**
 
-!defaultconfigs/
-!defaultconfigs/**
+!defaultconfig/
+!defaultconfig/**
 
 !config/
 !config/**
@@ -14,6 +16,14 @@
 !changelogs/
 !changelogs/**
 
+# Files that should always be included
+
+!.gitignore
 !README.md
 !LICENSE.md
 !TODO.md
+
+# Local launcher and generated files at the repository root
+/observable_announce
+/icon.png
+/data/

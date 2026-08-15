@@ -1,0 +1,24 @@
+{
+  "id": "atlantis_glyphs",
+  "name": {
+    "translate": "collapsible_groups.group.atlantis_glyphs",
+    "fallback": "Atlantis: Glyphs"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "atlantis"
+      },
+      {
+        "item_path_contains": "glyp"
+      },
+      {
+        "not": {
+          "item_path_contains": "scroll"
+        }
+      }
+    ]
+  }
+}

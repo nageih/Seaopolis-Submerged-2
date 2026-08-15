@@ -1,0 +1,12 @@
+{
+  "id": "long_sphere_keys",
+  "name": {
+    "translate": "collapsible_groups.group.long_sphere_keys",
+    "fallback": "Long Sphere Keys"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "submerged:keys/long_sphere"
+  }
+}

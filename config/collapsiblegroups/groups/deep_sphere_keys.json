@@ -1,0 +1,12 @@
+{
+  "id": "deep_sphere_keys",
+  "name": {
+    "translate": "collapsible_groups.group.deep_sphere_keys",
+    "fallback": "Deep Sphere Keys"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "submerged:keys/deep_sphere"
+  }
+}

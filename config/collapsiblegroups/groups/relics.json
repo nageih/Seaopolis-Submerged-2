@@ -1,0 +1,12 @@
+{
+  "id": "relics",
+  "name": {
+    "translate": "collapsible_groups.group.relics",
+    "fallback": "Relics"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "relics:relic"
+  }
+}

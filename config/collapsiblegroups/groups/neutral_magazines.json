@@ -1,0 +1,12 @@
+{
+  "id": "neutral_magazines",
+  "name": {
+    "translate": "collapsible_groups.group.neutral_magazines",
+    "fallback": "Neutral Magazines"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "reliquary:magazines/neutral_magazine"
+  }
+}

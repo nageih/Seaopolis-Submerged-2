@@ -1,0 +1,332 @@
+{
+  "id": "resource_fishes",
+  "name": {
+    "translate": "collapsible_groups.group.resource_fishes",
+    "fallback": "Resource Fishes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:green"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:wood"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:lead"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:black"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:coal"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:wither_skeleton"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:enderman"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:sapphire"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:zinc"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:platinum"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:light_gray"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:cyan"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:water"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:obsidian"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:purple"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:dirt"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:orange"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:gravel"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:silver"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:magma_cube"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:emerald"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:pink"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:cow"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:ice"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:red"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:sand"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:magenta"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:snow"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:pig"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:tin"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:yellow"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:chicken"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:iridium"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:skeleton"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:netherrack"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:soul_sand"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:lapis"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:zombie"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:osmium"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:white"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:peridot"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:light_blue"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:stone"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:sheep"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:copper"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:slime"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:granite"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:glowstone"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:basalt"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:spider"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:andesite"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:diorite"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:amethyst"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:uranium"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:lime"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:blue"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:creeper"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:aluminum"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:iron"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:cobblestone"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:gray"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:gold"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:clay"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:brown"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:lava"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:diamond"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:nickel"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:quartz"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:ghast"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:ancient"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:blaze"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:end_stone"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:ruby"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "resourcefish:redstone"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "submerged:glass"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "submerged:triarchium"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "submerged:warden"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "submerged:ender_dragon"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "submerged:wither"
+      },
+      {
+        "type": "com.benbenlaw.resourcefish.integration.fish.FishIngredient",
+        "id": "submerged:rainbow"
+      }
+    ]
+  }
+}

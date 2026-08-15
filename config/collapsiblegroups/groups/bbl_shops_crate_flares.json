@@ -1,0 +1,12 @@
+{
+  "id": "bbl_shops_crate_flares",
+  "name": {
+    "translate": "collapsible_groups.group.bbl_shops_crate_flares",
+    "fallback": "BBL Shops: Crate Flares"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "shops:crate_flare"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4x_compressed_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.4x_compressed_blocks",
+    "fallback": "4x Compressed Crates"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "compressedblocks:compression_x04"
+  }
+}

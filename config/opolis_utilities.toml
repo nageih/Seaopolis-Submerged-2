@@ -2,9 +2,9 @@
 	#URL for your discord
 	"Discord URL" = "https://discord.gg/benbenlaw"
 	#Modpack name
-	"Modpack name" = "USE /modpack_version instead"
+	"Modpack name" = "Submerged 2"
 	#Modpack Version
-	"Modpack Version" = "USE /modpack_version instead"
+	"Modpack Version" = "8.2"
 	#Mobs basic loot bag drop chance 0.0 = always, 1.0 = never, 0.5 = 50% chance, default = 0.75
 	"Mob Drop Chance" = 1.0
 	#Do wooden buttons make a doorbell sound, default = false

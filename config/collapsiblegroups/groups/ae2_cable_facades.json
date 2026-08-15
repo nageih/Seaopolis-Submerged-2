@@ -1,0 +1,12 @@
+{
+  "id": "ae2_cable_facades",
+  "name": {
+    "translate": "collapsible_groups.group.ae2_cable_facades",
+    "fallback": "AE2: Cable Facades"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "ae2:facade"
+  }
+}

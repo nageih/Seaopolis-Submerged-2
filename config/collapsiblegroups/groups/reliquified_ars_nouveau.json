@@ -1,0 +1,12 @@
+{
+  "id": "reliquified_ars_nouveau",
+  "name": {
+    "translate": "collapsible_groups.group.reliquified_ars_nouveau",
+    "fallback": "Reliquified Ars Nouveau"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "namespace": "reliquified_ars_nouveau"
+  }
+}

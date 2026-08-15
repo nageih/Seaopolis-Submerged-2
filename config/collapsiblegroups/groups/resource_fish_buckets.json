@@ -1,0 +1,12 @@
+{
+  "id": "resource_fish_buckets",
+  "name": {
+    "translate": "collapsible_groups.group.resource_fish_buckets",
+    "fallback": "Resource Fish: Buckets"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "resourcefish:resource_fish_bucket"
+  }
+}

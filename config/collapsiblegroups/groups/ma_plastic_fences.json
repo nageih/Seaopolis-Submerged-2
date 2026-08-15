@@ -1,0 +1,12 @@
+{
+  "id": "ma_plastic_fences",
+  "name": {
+    "translate": "collapsible_groups.group.ma_plastic_fences",
+    "fallback": "MA: Plastic Fences"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "mekanismadditions:plastic_fences"
+  }
+}

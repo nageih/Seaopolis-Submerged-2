@@ -1,0 +1,12 @@
+{
+  "id": "resource_fish_caviars",
+  "name": {
+    "translate": "collapsible_groups.group.resource_fish_caviars",
+    "fallback": "Resource Fish: Caviars"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "resourcefish:caviar"
+  }
+}

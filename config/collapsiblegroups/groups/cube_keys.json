@@ -1,0 +1,12 @@
+{
+  "id": "cube_keys",
+  "name": {
+    "translate": "collapsible_groups.group.cube_keys",
+    "fallback": "Cube Keys"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "submerged:keys/cube_base"
+  }
+}

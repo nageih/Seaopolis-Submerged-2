@@ -1,0 +1,43 @@
+{
+  "id": "spawn_eggs",
+  "name": {
+    "translate": "collapsible_groups.group.spawn_eggs",
+    "fallback": "Spawn Eggs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "item_path_contains": "spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:alakarkinos_se"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:wilden_stalker_se"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:wilden_guardian_se"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:wilden_hunter_se"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:whirlisprig_se"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:starbuncle_se"
+      },
+      {
+        "type": "item",
+        "id": "ars_nouveau:drygmy_se"
+      }
+    ]
+  }
+}

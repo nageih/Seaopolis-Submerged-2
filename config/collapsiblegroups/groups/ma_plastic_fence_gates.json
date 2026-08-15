@@ -1,0 +1,12 @@
+{
+  "id": "ma_plastic_fence_gates",
+  "name": {
+    "translate": "collapsible_groups.group.ma_plastic_fence_gates",
+    "fallback": "MA: Plastic Fence Gates"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "mekanismadditions:plastic_fence_gates"
+  }
+}

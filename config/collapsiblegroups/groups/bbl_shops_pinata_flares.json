@@ -1,0 +1,12 @@
+{
+  "id": "bbl_shops_pinata_flares",
+  "name": {
+    "translate": "collapsible_groups.group.bbl_shops_pinata_flares",
+    "fallback": "BBL Shops: Pinata Flares"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "shops:pinata_flare"
+  }
+}

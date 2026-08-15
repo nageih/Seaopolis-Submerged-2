@@ -1,0 +1,12 @@
+{
+  "id": "5x_compressed_crates",
+  "name": {
+    "translate": "collapsible_groups.group.5x_compressed_crates",
+    "fallback": "5x Compressed Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "compressedblocks:crate_x05"
+  }
+}

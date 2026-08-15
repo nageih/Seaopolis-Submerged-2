@@ -1,0 +1,12 @@
+{
+  "id": "ma_plastic_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.ma_plastic_blocks",
+    "fallback": "MA: Plastic Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "mekanismadditions:plastic_blocks"
+  }
+}

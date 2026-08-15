@@ -1,0 +1,12 @@
+{
+  "id": "forcecraft_flasks",
+  "name": {
+    "translate": "collapsible_groups.group.forcecraft_flasks",
+    "fallback": "ForceCraft: Flasks"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "forcecraft:entity_flasks"
+  }
+}

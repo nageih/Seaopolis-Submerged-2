@@ -1,0 +1,24 @@
+{
+  "id": "condensed_potions",
+  "name": {
+    "translate": "collapsible_groups.group.condensed_potions",
+    "fallback": "Condensed Potions"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "reliquary:potion"
+      },
+      {
+        "type": "item",
+        "id": "reliquary:splash_potion"
+      },
+      {
+        "type": "item",
+        "id": "reliquary:lingering_potion"
+      }
+    ]
+  }
+}

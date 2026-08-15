@@ -1,0 +1,12 @@
+{
+  "id": "simplehats_hats",
+  "name": {
+    "translate": "collapsible_groups.group.simplehats_hats",
+    "fallback": "SimpleHats: Hats "
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "simplehats:all_hats"
+  }
+}

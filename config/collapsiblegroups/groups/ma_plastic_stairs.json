@@ -1,0 +1,12 @@
+{
+  "id": "ma_plastic_stairs",
+  "name": {
+    "translate": "collapsible_groups.group.ma_plastic_stairs",
+    "fallback": "MA: Plastic Stairs"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "mekanismadditions:plastic_stairs"
+  }
+}

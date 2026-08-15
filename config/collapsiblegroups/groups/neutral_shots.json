@@ -1,0 +1,12 @@
+{
+  "id": "neutral_shots",
+  "name": {
+    "translate": "collapsible_groups.group.neutral_shots",
+    "fallback": "Neutral Shots"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "reliquary:bullets/neutral_bullet"
+  }
+}

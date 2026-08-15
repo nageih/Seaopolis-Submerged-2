@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "forge_5E3D2C859007DA93"
+	filename: "forge_5e3d2c859007da93"
 	group: "79FA05351D416013"
 	icon: {
 		id: "iceandfire:dragonforge_fire_input"

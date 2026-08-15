@@ -1,0 +1,12 @@
+{
+  "id": "ma_glow_panels",
+  "name": {
+    "translate": "collapsible_groups.group.ma_glow_panels",
+    "fallback": "MA: Glow Panels"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "mekanismadditions:glow_panels"
+  }
+}
