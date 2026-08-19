@@ -1139,6 +1139,7 @@
 	quest.6E3B0B6AA3E54598.quest_desc: ["&lRaw Ore Meat&r through a &lFermentation Station&r will create &lFermented Ore Meat&r. Make sure to check your &lFermentation Station&r settings!"]
 	quest.6E3E131D26508228.quest_desc: ["Made inside the &lInfinity Forge&r "]
 	quest.6E5B41421760C162.quest_desc: ["Used for the &lForge&r"]
+	quest.6E93A11219BA59E0.quest_desc: ["The &lAquarium&r is a single block that can be used to store a single &lResource Fish&r to produce &lCavair&r"]
 	quest.6EC0D6FC4E608E12.quest_desc: ["Infuses items with &lFlux&r "]
 	quest.6EF53DBEA0BF9F54.quest_desc: ["Stand on top to remove &lExperience &rfrom the player"]
 	quest.6EF8B2BCEB53422D.quest_desc: ["Crafted &lOre Pieces&r"]

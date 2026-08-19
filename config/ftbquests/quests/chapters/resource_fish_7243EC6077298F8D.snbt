@@ -625,5 +625,25 @@
 			x: -1.0d
 			y: 1.5d
 		}
+		{
+			dependencies: ["57F452F179109301"]
+			id: "6E93A11219BA59E0"
+			rewards: [{
+				count: 6
+				id: "081858AC9D6DF852"
+				item: {
+					count: 1
+					id: "resourcefish:aquarium"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4C120BAA6FFCFF37"
+				item: { count: 1, id: "resourcefish:aquarium" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
 	]
 }
