@@ -482,5 +482,10 @@
     "name.submerged.paxel.of.luck": "Paxel of Luck",
     "name.submerged.sword.of.justice": "Sword of Justice",
     "name.submerged.the.salty.shovel": "The Salty Shovel",
-    "name.submerged.happiness": "Happiness"
+    "name.submerged.happiness": "Happiness",
+
+    "sign.submerged.sign.welcome": "Welcome to",
+    "sign.submerged.sign.submerged_2": "Submerged 2",
+    "sign.submerged.sign.get_started": "To get started",
+    "sign.submerged.sign.command": "/skyblock gui"
 }
